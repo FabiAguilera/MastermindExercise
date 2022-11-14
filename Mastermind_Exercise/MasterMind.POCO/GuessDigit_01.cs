@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mastermind_Exercise
 {
+    // ignore this page, not needed for excercise as the Random class was implimented in place of this!
     public class GuessDigit_01
     {
         public int digitOne { get; set; }
