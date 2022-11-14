@@ -1,0 +1,7 @@
+C:\Code Practice\Mastermind Coding Exercise\Mastermind_Exercise\Mastermind_Exercise\bin\Debug\Mastermind_Exercise.exe.config
+C:\Code Practice\Mastermind Coding Exercise\Mastermind_Exercise\Mastermind_Exercise\bin\Debug\Mastermind_Exercise.exe
+C:\Code Practice\Mastermind Coding Exercise\Mastermind_Exercise\Mastermind_Exercise\bin\Debug\Mastermind_Exercise.pdb
+C:\Code Practice\Mastermind Coding Exercise\Mastermind_Exercise\Mastermind_Exercise\obj\Debug\Mastermind_Exercise.csproj.AssemblyReference.cache
+C:\Code Practice\Mastermind Coding Exercise\Mastermind_Exercise\Mastermind_Exercise\obj\Debug\Mastermind_Exercise.csproj.CoreCompileInputs.cache
+C:\Code Practice\Mastermind Coding Exercise\Mastermind_Exercise\Mastermind_Exercise\obj\Debug\Mastermind_Exercise.exe
+C:\Code Practice\Mastermind Coding Exercise\Mastermind_Exercise\Mastermind_Exercise\obj\Debug\Mastermind_Exercise.pdb
